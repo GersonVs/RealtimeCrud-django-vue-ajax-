@@ -1,4 +1,4 @@
-# RealtimeCrud-django-vue-ajax-
+# RealtimeCrud-django-vue-ajax
 Simple project involving several concepts
 
 ## Steps
